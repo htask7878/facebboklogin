@@ -42,8 +42,7 @@ dependencies:
   otp_autofill: ^2.1.0
   provider:
   flutter_otp_text_field: ^1.1.1
-  flutter_login_facebook: ^1.7.0
-  flutter_facebook_auth: ^5.0.6
+  google_sign_in:
 
 dev_dependencies:
   flutter_test:
